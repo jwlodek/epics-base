@@ -16,6 +16,9 @@ should also be read to understand what has changed since earlier releases.
 ## Changes made on the 7.0 branch since 7.0.7
 
 <!-- Insert new items immediately below here ... -->
+### Add `epicsThreadCreateJoinable` function
+
+Adds a function to the libcom API for shorthand creation of joinable threads, without the use of `epicsThreadCreateOpt`.
 
 ## EPICS Release 7.0.7
 
